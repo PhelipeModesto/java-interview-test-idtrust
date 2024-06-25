@@ -25,6 +25,7 @@ public class Main {
 		}
 		
 		System.out.println("O valor da soma é " + soma);
+		// c) O valor da soma é 79
 
 	}
 
